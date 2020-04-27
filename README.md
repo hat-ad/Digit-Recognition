@@ -8,3 +8,4 @@
    Pandas(to get the data from Mnist_784 datframe)
    Scikit-learn(KNeighbors Classifier)-For the data to be analysed using ML
    Numpy(for Basic array manipulations)
+   Pickle-to Save the model
